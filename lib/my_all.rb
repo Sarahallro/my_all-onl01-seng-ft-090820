@@ -8,6 +8,7 @@ def my_all?(collection)
   end
   if all_bigger == false 
     return false
+  else
   end
 end
 
