@@ -9,6 +9,7 @@ def my_all?(collection)
   if all_bigger == false 
     return false
   else
+    return true
   end
 end
 
