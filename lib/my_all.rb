@@ -1,4 +1,4 @@
-require 'pry'
+
 
 def my_all?(collection)
   i= 0
@@ -8,7 +8,6 @@ def my_all?(collection)
   if all_bigger == false 
     return false
   end
-   #binding.pry
 end
 
 
